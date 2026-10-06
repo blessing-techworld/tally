@@ -1,0 +1,11 @@
+{
+  "Bank charges": ["sms alert", "stamp duty", "vat", "maintenance fee", "card fee", "charges"],
+  "Rent": ["rent", "landlord"],
+  "Food": ["shoprite", "spar", "justrite", "market", "chicken republic", "kilimanjaro", "mr biggs", "foodco", "jumia food", "chowdeck", "glovo"],
+  "Transport": ["bolt", "uber", "indrive", "brt", "fuel", "filling station", "total energies", "mobil", "conoil"],
+  "Data & airtime": ["airtime", "data", "mtn", "airtel", "glo", "9mobile"],
+  "Bills": ["ikedc", "ekedc", "aedc", "eedc", "phed", "prepaid meter", "dstv", "gotv", "startimes", "water"],
+  "Subscriptions": ["netflix", "spotify", "apple.com", "google", "youtube", "showmax"],
+  "Shopping": ["jumia", "konga", "slot", "pos purchase"],
+  "Transfers out": ["trf to", "transfer to", "nip trf", "to opay", "to palmpay"]
+}
